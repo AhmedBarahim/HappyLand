@@ -1,0 +1,54 @@
+/* HEADER
+--------------------------------------------------------------*/
+@media (max-width: 991px) {
+  #header {
+    height: 80px !important;
+    padding: 0px;
+  }
+  #logo {
+    height: 80px !important;
+  }
+}
+
+
+@media (max-width: 991px) {
+
+}
+
+/* HERO
+--------------------------------------------------------------*/
+@media (max-width: 991px) {
+  .jumbotron-image {
+    height: auto;
+  }
+}
+
+/* SERVICE
+--------------------------------------------------------------*/
+
+@media (max-width: 768px) {
+  .p-xs-2 {
+    padding: 20px 70px;
+  }
+  .card-text {
+    font-size: 2rem;
+  }
+}
+
+
+/* Footer
+--------------------------------------------------------------*/
+
+
+
+@media (min-width: 769px) {
+  .footer-seprator {
+    border-inline-end: 2px solid;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-seprator {
+    border-bottom: 2px solid;
+  }
+}
